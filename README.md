@@ -1,8 +1,6 @@
 # Arbetsmetodik för utvecklare VT18
 
-## Lektionsplanering
-
-### Delmoment
+## Delmoment
 
 | Delmoment                              | Period  |
 |:---------------------------------------|--------:|
@@ -23,27 +21,40 @@
 | Grupparbete, Demo iteration 3          | fre 11/5 |
 | Inlämningsuppgift 4 (Praxis)           | mån 14/5 |
 
+## Litteratur
+
+* [Pro Git](https://git-scm.com/book/en/v2)
+
+## Lektionsplanering
+
 ### 1. Versionshantering med Git
 
 #### `v.8, 23/2`
 
 * Grunderna
-* PG: kap. 1,2
+* [PG: Getting Started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+* [PG: Git Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
 #### `v.9, 2/3`
 
 * Branchning
-* PG: kap. 3  
+* [PG: Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)  
 
 #### `v.10, 9/3`
 
 * Distribuerade arbetssätt
 * GitHub
+* [PG: Distributed Git](https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows)
+* [PG: GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
 
 #### `v.11, 16/3`
 
 * Verktyg
 * SourceTree
+
+##### Länkar
+
+* [PG: Tools](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection)
 
 ### 2. Utvecklingsprinciper
 
