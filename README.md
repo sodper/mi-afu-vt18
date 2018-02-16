@@ -1,6 +1,6 @@
 # Arbetsmetodik för utvecklare VT18
 
-[Kurplan](Kursplan.md)
+[Kursplan](Kursplan.md)
 
 ## Delmoment
 
