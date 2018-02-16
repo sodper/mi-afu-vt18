@@ -1,5 +1,7 @@
 # Arbetsmetodik för utvecklare VT18
 
+[Kurplan](Kursplan.md)
+
 ## Delmoment
 
 | Delmoment                              | Period  |
@@ -51,9 +53,6 @@
 
 * Verktyg
 * SourceTree
-
-##### Länkar
-
 * [PG: Tools](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection)
 
 ### 2. Utvecklingsprinciper
@@ -73,6 +72,7 @@
 * Code Smells
 * SOLID
 * Design Patterns
+* [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
 
 ### 3. Kvalitetssäkring av utvecklingsarbete
 
@@ -95,6 +95,7 @@
 * Enhetstester
 * TDD
 * Kodkator
+* [Why Use Test-Driven Development?](http://news.codecademy.com/test-driven-development/)
 
 #### `v.17, 27/4`
 
@@ -108,6 +109,7 @@
 * BEM / SMACSS / Atomic CSS / OOCSS
 * Critical CSS
 * Graceful degradation / Progressive enhancement
+* [CSS Tricks: BEM 101](https://css-tricks.com/bem-101/)
 
 #### `v.19, 11/5`
 
