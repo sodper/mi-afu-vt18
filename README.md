@@ -37,7 +37,7 @@
 
 ## Användbara länkar
 
-* [TryGit][https://try.github.io/levels/1/challenges/1]
+* [TryGit](https://try.github.io/levels/1/challenges/1)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Lektionsplanering
