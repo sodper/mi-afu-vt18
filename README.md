@@ -2,6 +2,14 @@
 
 [Kursplan](Kursplan.md)
 
+## Innehåll
+
+* [Delmoment](#delmoment)
+* [Uppgifter](#uppgifter)
+* [Litteratur](#litteratur)
+* [Användbara länkar](#anv%C3%A4ndbara-l%C3%A4nkar)
+* [Lektionsplanering](#lektionsplanering)
+
 ## Delmoment
 
 | Delmoment                              | Period  |
@@ -27,7 +35,14 @@
 
 * [Pro Git](https://git-scm.com/book/en/v2)
 
+## Användbara länkar
+
+* [TryGit][https://try.github.io/levels/1/challenges/1]
+* [Learn Git Branching](https://learngitbranching.js.org/)
+
 ## Lektionsplanering
+
+Länkarna under varje pass ligger till grund för materialet som gås igenom under passet. Läs igenom dessa som förberedelse inför passet för att få ut så mycket som möjligt av det.
 
 ### 1. Versionshantering med Git
 
