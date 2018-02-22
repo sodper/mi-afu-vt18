@@ -1,4 +1,4 @@
-# Krusplan: Arbetsmetodik för utvecklare
+# Kursplan: Arbetsmetodik för utvecklare
 
 [< Tillbaka](README.md)
 
