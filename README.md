@@ -34,6 +34,7 @@
 ## Litteratur
 
 * [Pro Git](https://git-scm.com/book/en/v2)
+* [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 ## Användbara länkar
 
@@ -111,11 +112,13 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * TDD
 * Kodkator
 * [Why Use Test-Driven Development?](http://news.codecademy.com/test-driven-development/)
+* [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 #### `v.17, 27/4`
 
 * E2E-tester
 * Demo Iteration 2
+* [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 ### 4. Verktyg och praxis
 
