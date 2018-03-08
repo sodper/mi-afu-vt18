@@ -38,6 +38,7 @@
 
 ## Användbara länkar
 
+* [gitkatas](https://github.com/sodper/gitkatas)
 * [TryGit](https://try.github.io/levels/1/challenges/1)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 
