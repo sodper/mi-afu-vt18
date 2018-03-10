@@ -69,8 +69,14 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 #### `v.11, 16/3`
 
 * Verktyg
+  * References, Commit ranges
+  * git stash, clean
+  * Searching
+  * git hooks
+* gitk
 * SourceTree
 * [PG: Tools](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection)
+* [PG: Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
 ### 2. Utvecklingsprinciper
 
