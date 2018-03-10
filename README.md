@@ -33,7 +33,8 @@
 
 ## Litteratur
 
-* [Pro Git](https://git-scm.com/book/en/v2)
+* [Pro Git (PG)](https://git-scm.com/book/en/v2)
+* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 ## Användbara länkar
@@ -89,6 +90,7 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * YAGNI
 * Law of Demeter
 * Läsbarhet
+* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 #### `v.13, 30/3`
 
@@ -96,6 +98,7 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * SOLID
 * Design Patterns
 * [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
+* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ### 3. Kvalitetssäkring av utvecklingsarbete
 
