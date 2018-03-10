@@ -92,7 +92,7 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * Läsbarhet
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-#### `v.13, 30/3`
+#### `v.13, 29/3`
 
 * Code Smells
 * SOLID
