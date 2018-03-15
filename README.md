@@ -77,6 +77,13 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * gitk
 * SourceTree
 * [PG: Tools](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection)
+  * Ni behöver inte läsa
+    * Signing your work
+    * Rerere
+    * Submodules
+    * Bundling
+    * Replace
+    * Credential Storage
 * [PG: Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
 ### 2. Utvecklingsprinciper
