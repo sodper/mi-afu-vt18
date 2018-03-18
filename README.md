@@ -98,29 +98,35 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * Law of Demeter
 * Läsbarhet
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [CSS Tricks: Working towards better naming](https://css-tricks.com/working-towards-better-naming/)
+* [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
 
 #### `v.13, 29/3`
 
+* Refaktorisering
 * Code Smells
 * SOLID
 * Design Patterns
-* [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
+* [Code Smells](https://sourcemaking.com/refactoring/smells)
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ### 3. Kvalitetssäkring av utvecklingsarbete
 
 #### `v.14, 6/4`
 
-* Kodgranskning
-* Refaktorisering
-* Kodstandard
-* Linting
+* Parprogrammering
+* Mobbprogrammering: Gästföreläsning
+* [Pair Programming – So how good is it, really?](https://raygun.com/blog/how-good-is-pair-programming-really/)
+* [Mob programming](https://www.agilealliance.org/glossary/mob-programming/)
 
 #### `v.15, 13/4`
 
-* Parproprogrammering
-* Mobbprogrammering
-* Demo Iteration 1
+* Kodstandard
+* Kodgranskning
+* Linting
+* **Demo Iteration 1**
+* [Code Review Guidelines](https://www.codeproject.com/Articles/524235/Codeplusreviewplusguidelines)
+* [CSS Tricks: What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/)
 
 #### `v.16, 20/4`
 
@@ -130,21 +136,24 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * Kodkator
 * [Why Use Test-Driven Development?](http://news.codecademy.com/test-driven-development/)
 * [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+  * Ni kan hoppa över bitarna som handlar om exempelapplikationen
 
 #### `v.17, 27/4`
 
 * E2E-tester
-* Demo Iteration 2
+* **Demo Iteration 2**
 * [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+  * Ni kan hoppa över bitarna som handlar om exempelapplikationen
 
 ### 4. Verktyg och praxis
 
 #### `v.18, 4/5`
 
 * BEM / SMACSS / Atomic CSS / OOCSS
-* Critical CSS
 * Graceful degradation / Progressive enhancement
+* Content Security Policy
 * [CSS Tricks: BEM 101](https://css-tricks.com/bem-101/)
+* [MDN: Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 
 #### `v.19, 11/5`
 
@@ -152,4 +161,4 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * Continuous Integration
 * Elephant Carpaccio?
 * PWA?
-* Demo Iteration 3
+* **Demo Iteration 3**
