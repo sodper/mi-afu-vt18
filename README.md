@@ -99,7 +99,6 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * Läsbarhet
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [CSS Tricks: Working towards better naming](https://css-tricks.com/working-towards-better-naming/)
-* [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
 
 #### `v.13, 29/3`
 
