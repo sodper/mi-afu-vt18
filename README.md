@@ -93,9 +93,9 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * Vad är kvalitet
 * Teknisk skuld
 * Clean Code
+  * Namngivning
+  * Funktioner
 * DRY
-* YAGNI
-* Law of Demeter
 * Läsbarhet
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [CSS Tricks: Working towards better naming](https://css-tricks.com/working-towards-better-naming/)
@@ -104,10 +104,14 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 #### `v.13, 29/3`
 
 * Refaktorisering
-* Code Smells
+* Clean Code
+  * Command Query Separation
+  * Kommentarer
+  * Objekt och klasser
+* Scoutregeln
+* Law of Demeter
+* YAGNI
 * SOLID
-* Design Patterns
-* [Code Smells](https://sourcemaking.com/refactoring/smells)
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ### 3. Kvalitetssäkring av utvecklingsarbete
