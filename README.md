@@ -24,7 +24,7 @@
 | Uppgift                                | Deadline |
 |:---------------------------------------|---------:|
 | Inlämningsuppgift 1 (Git)              | mån 19/3 |
-| Inlämningsuppgift 2 (Utv.principer)    | mån 2/4  |
+| Inlämningsuppgift 2 (Utv.principer)    | tis 3/4  |
 | Grupparbete, Demo iteration 1          | fre 13/4 |
 | Grupparbete, Demo iteration 2          | fre 27/4 |
 | Inlämningsuppgift 3 (Kvalitetssäkring) | mån 30/4 |
