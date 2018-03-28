@@ -6,6 +6,33 @@ Arbetsförmedlingen har utlyst en innovationstävling för att få inspiration t
 
 Till er hjälp får ni ta del av Arbetsförmedlingens öppna API:er (http://jobtechdev.se/swagger/).
 
+För att exempelvis söka efter platsannonser kan ni använda er av endpointen `/v0/platsannonser/matchning` som tar emot ett antal olika mathcningsparametrar. Ett svar kan se ut så här:
+
+```
+{
+  "matchningslista": {
+    "antal_platsannonser": 1963,
+    "antal_platsannonser_exakta": 20,
+    "antal_platsannonser_narliggande": 1943,
+    "antal_platserTotal": 6,
+    "antal_sidor": 393,
+    "matchningdata": [
+      {
+        "annonsid": "7644107",
+        "annonsrubrik": "Löneadministratör Botkyrka Kommun",
+        "yrkesbenamning": "Löneadministratör",
+        ...
+      },
+      ... fler annonser ...
+    ]
+  }
+}
+```
+
+Se länken till api-dokumentationen ovan för mer information.
+
+***Tips!*** Testa era frågor direkt i api-dokumentationen och spara svaren i er app som mockad data när ni utvecklar. Eftersom det är ett publikt api kan åtkomsten vara svår att garantera.
+
 Arbetet med uppgiften kommer vara uppdelat i tre iterationer som vardera avslutas med ett demo av er progress samt en kodgranskning av er kod.
 
 ## Mål
