@@ -39,6 +39,10 @@ Arbetet kommer vara uppdelat i tre st tvåveckors-iterationer som vardera avslut
 
 Målet med uppgiften är att ni får praktisera de tekniker för versionshantering, arbetssätt, utvecklingsprinciper samt kvalitetssäkring som vi går igenom i kursen. Ni kommer således bli bedömda utifrån hur ni använder git (arbetsflöde för samarbete, branchstrategier, commits osv), hur ni strukturerar koden samt hur ni arbetar med kvalitetssäkring.
 
+## Gruppindelning
+
+Gruppindelningen finns i Zenit under Projektgrupper. Det finns sex grupper A-F med 5-6 personer vardera. Om ni behöver kan jag sätta upp en projektyta där för respektive grupp med anslagstavla, chat, att göra-lista mm.
+
 ## Krav
 
 ### Specifikationer
