@@ -18,7 +18,7 @@ Målet med uppgiften är att ni får praktisera de tekniker för versionshanteri
 
 Inför varje iteration får ni en uppsättning specifikationer som ni ska implementera.
 
-* Specifikationer iteration 1
+* [Specifikationer iteration 1](iteration-1.feature)
 * Specifikationer iteration 2
 * Specifikationer iteration 3
 
@@ -27,6 +27,12 @@ Inför varje iteration får ni en uppsättning specifikationer som ni ska implem
 **Alla i gruppen ska bidra** ungefär lika mycket. Det ska finnas commits från alla i historiken som visar att ni arbetat tillsammans.
 
 Ni ska använda er av featurebrancher när ni implementerar kraven. **Spara alla featurebrancher** så det går att se i historiken hur ni har jobbat.
+
+### Kod
+
+Se till att ni arbetar efter samma kodstandard så att indentering, formatering, namngivning osv är konsekvent i projektet.
+
+Koden ska följa principer för ren kod och ha en genomtänkt och överskådlig struktur där alla enheter har väl särskilda ansvarsområden.
 
 ## Inlämning
 
