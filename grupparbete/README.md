@@ -33,7 +33,7 @@ Se länken till api-dokumentationen ovan för mer information.
 
 ***Tips!*** Testa era frågor direkt i api-dokumentationen och spara svaren i er app som mockad data när ni utvecklar. Eftersom det är ett publikt api kan åtkomsten vara svår att garantera.
 
-Arbetet med uppgiften kommer vara uppdelat i tre iterationer som vardera avslutas med ett demo av er progress samt en kodgranskning av er kod.
+Arbetet kommer vara uppdelat i tre st tvåveckors-iterationer som vardera avslutas med ett demo av er progress samt en kodgranskning av er kod, där alla i klassen utvärderar er kod.
 
 ## Mål
 
@@ -55,6 +55,8 @@ Inför varje iteration får ni en uppsättning specifikationer som ni ska implem
 
 Ni ska använda er av featurebrancher när ni implementerar kraven. **Spara alla featurebrancher** så det går att se i historiken hur ni har jobbat.
 
+Koden ska finnas tillgänglig på GitHub.
+
 ### Kod
 
 Se till att ni arbetar efter samma kodstandard så att indentering, formatering, namngivning osv är konsekvent i projektet.
@@ -62,6 +64,12 @@ Se till att ni arbetar efter samma kodstandard så att indentering, formatering,
 Koden ska följa principer för ren kod och ha en genomtänkt och överskådlig struktur där alla enheter har väl särskilda ansvarsområden.
 
 ## Inlämning
+
+_Demo iteration 1:_ fre, 13/4
+
+_Demo iteration 2:_ fre, 27/4
+
+_Demo iteration 3:_ fre, 11/5
 
 _Sista inlämningsdag:_ **11/5 kl. 18.00**
 
