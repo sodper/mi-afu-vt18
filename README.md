@@ -50,6 +50,10 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 
 ### 1. Versionshantering med Git
 
+<details>
+  <summary>Tidigare lektionspass</summary>
+  <p>
+
 #### `v.8, 23/2`
 
 * Grunderna
@@ -113,6 +117,9 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * YAGNI
 * SOLID
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+  </p>
+</details>
 
 ### 3. Kvalitetssäkring av utvecklingsarbete
 
