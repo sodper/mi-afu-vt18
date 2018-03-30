@@ -48,11 +48,11 @@
 
 Länkarna under varje pass ligger till grund för materialet som gås igenom under passet. Läs igenom dessa som förberedelse inför passet för att få ut så mycket som möjligt av det.
 
-### 1. Versionshantering med Git
-
 <details>
   <summary>Tidigare lektionspass</summary>
   <p>
+
+### 1. Versionshantering med Git
 
 #### `v.8, 23/2`
 
