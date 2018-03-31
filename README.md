@@ -35,7 +35,15 @@
 
 * [Pro Git (PG)](https://git-scm.com/book/en/v2)
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [CSS Tricks: Working towards better naming](https://css-tricks.com/working-towards-better-naming/)
+* [Pair Programming – So how good is it, really?](https://raygun.com/blog/how-good-is-pair-programming-really/)
+* [Mob programming](https://www.agilealliance.org/glossary/mob-programming/)
+* [Code Review Guidelines](https://www.codeproject.com/Articles/524235/Codeplusreviewplusguidelines)
+* [CSS Tricks: What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/)
+* [Why Use Test-Driven Development?](http://news.codecademy.com/test-driven-development/)
 * [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+* [CSS Tricks: BEM 101](https://css-tricks.com/bem-101/)
+* [MDN: Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 
 ## Användbara länkar
 
