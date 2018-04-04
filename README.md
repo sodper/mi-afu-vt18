@@ -135,6 +135,7 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 
 * Parprogrammering
 * Mobbprogrammering: Gästföreläsning
+* Eget arbete med gruppuppgiften
 * [Pair Programming – So how good is it, really?](https://raygun.com/blog/how-good-is-pair-programming-really/)
 * [Mob programming](https://www.agilealliance.org/glossary/mob-programming/)
 
@@ -144,6 +145,7 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * Kodgranskning
 * Linting
 * **Demo Iteration 1**
+* Eget arbete med gruppuppgiften
 * [Code Review Guidelines](https://www.codeproject.com/Articles/524235/Codeplusreviewplusguidelines)
 * [CSS Tricks: What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/)
 
