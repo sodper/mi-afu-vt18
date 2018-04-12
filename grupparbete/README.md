@@ -50,7 +50,7 @@ Gruppindelningen finns i Zenit under Projektgrupper. Det finns sex grupper A-F m
 Inför varje iteration får ni en uppsättning specifikationer som ni ska implementera.
 
 * [Specifikationer iteration 1](iteration-1.feature)
-* Specifikationer iteration 2
+* [Specifikationer iteration 2](iteration-2.feature)
 * Specifikationer iteration 3
 
 ### Git

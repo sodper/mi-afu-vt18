@@ -72,11 +72,11 @@ Egenskap: Dela listningar
   kunna dela hela listningar.
 
   Scenario: Dela listning via url
-		Givet att en arbetssökande besöker startsidan
-		När den arbetssökande klickar på en knapp för att dela listningen
-		Så visas en permanent url till den aktuella listningen
+    Givet att en arbetssökande besöker startsidan
+    När den arbetssökande klickar på en knapp för att dela listningen
+    Så visas en permanent url till den aktuella listningen
 
-	Scenario: Visa listning via permanent länk
-		Givet att en arbetssökande har en permanent url till en listning
-		När den arbetssökande surfar till urlen
-		Så visas listningen för den aktuella urlen
+  Scenario: Visa listning via permanent länk
+    Givet att en arbetssökande har en permanent url till en listning
+    När den arbetssökande surfar till urlen
+    Så visas listningen för den aktuella urlen
