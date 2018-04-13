@@ -158,14 +158,25 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * Kodkator
 * [Why Use Test-Driven Development?](http://news.codecademy.com/test-driven-development/)
 * [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
-  * Ni kan hoppa över bitarna som handlar om exempelapplikationen
+  * The Importance of (Test) Automation
+  * The Test Pyramid
+  * Unit tests
+  * Avoid Test Duplication
+  * Writing Clean Test Code
 
 #### `v.17, 27/4`
 
+* UI-tester
 * E2E-tester
 * **Demo Iteration 2**
 * [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
-  * Ni kan hoppa över bitarna som handlar om exempelapplikationen
+  * Integration Tests
+  * Contract Tests
+  * UI Tests
+  * End-to-End Tests
+  * Acceptance Tests — Do Your Features Work Correctly?
+  * Exploratory Testing
+  * The Confusion About Testing Terminology
 
 ### 4. Verktyg och praxis
 
