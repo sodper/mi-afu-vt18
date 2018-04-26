@@ -51,7 +51,7 @@ Inför varje iteration får ni en uppsättning specifikationer som ni ska implem
 
 * [Specifikationer iteration 1](iteration-1.feature)
 * [Specifikationer iteration 2](iteration-2.feature)
-* Specifikationer iteration 3
+* [Specifikationer iteration 3](iteration-3.feature)
 
 ### Git
 
