@@ -44,7 +44,7 @@ Egenskap: Bläddring av listningar
     Så visas den föregående sidan i träfflistan
 
 Egenskap: Sökning
-  Allmänna listningar är användbara med för att kunna hitta rätt
+  Allmänna listningar är användbara men för att kunna hitta rätt
   jobb behövs fritextsökning.
 
   Scenario: Söka annonser efter yrke
