@@ -127,9 +127,6 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * SOLID
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-  </p>
-</details>
-
 ### 3. Kvalitetssäkring av utvecklingsarbete
 
 #### `v.14, 6/4`
@@ -177,6 +174,9 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
   * Acceptance Tests — Do Your Features Work Correctly?
   * Exploratory Testing
   * The Confusion About Testing Terminology
+
+  </p>
+</details>
 
 ### 4. Verktyg och praxis
 
