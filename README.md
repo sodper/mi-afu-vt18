@@ -185,13 +185,12 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 * BEM / SMACSS / Atomic CSS / OOCSS
 * Graceful degradation / Progressive enhancement
 * Content Security Policy
+* Eget arbete med gruppuppgiften
 * [CSS Tricks: BEM 101](https://css-tricks.com/bem-101/)
 * [MDN: Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 
 #### `v.19, 11/5`
 
 * Regex
-* Continuous Integration
-* Elephant Carpaccio?
-* PWA?
+* Progressive Web Apps (PWA)
 * **Demo Iteration 3**
