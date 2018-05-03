@@ -193,4 +193,5 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 
 * Regex
 * Progressive Web Apps (PWA)
+* Continuous Integration
 * **Demo Iteration 3**
