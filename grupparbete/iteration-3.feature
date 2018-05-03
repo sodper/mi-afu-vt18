@@ -8,7 +8,7 @@ Egenskap: Filtrering
   Scenario: Kontroll för att filtrera listning
     Givet att en arbetssökande besöker startsidan
     Och att det finns en listning med annonser från fler än 1 kommun
-    Så visas en kontroll för att välja någon utan eller ingen av kommunerna i listningen
+    Så visas en kontroll för att välja någon utav eller ingen av kommunerna i listningen
 
   Scenario: Filtrera listning på kommun
     Givet att en arbetssökande besöker startsidan
@@ -26,7 +26,7 @@ Egenskap: Visa annonser från hela landet
     Så visas en meny där alla tillgängliga län finns listade
 
 Egenskap: Förbättrad sökning
-  Det är svårt att hitta rätt annonser o man inte vet exakt vilket
+  Det är svårt att hitta rätt annonser om man inte vet exakt vilket
   yrke man letar efter. Därför ska vi implementera en förslagsmotor
   som vid inmatning av sökord visar förslag på yrkesbenämningar att
   söka efter.

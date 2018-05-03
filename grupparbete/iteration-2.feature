@@ -4,7 +4,7 @@ Egenskap: Anpassad listning
   För att göra appen mer användbar behöver användaren kunna
   anpassa listningen efter behov.
 
-  Scenario: Möjlighet att välja antal annonser i en listning
+  Scenariomall: Möjlighet att välja antal annonser i en listning
     Givet att en arbetssökande besöker startsidan
     Och väljer <val> i en meny
     Så uppdateras listan med <antal> annonser
@@ -15,7 +15,7 @@ Egenskap: Anpassad listning
       | 20  | 20 st |
       | 30  | 30 st |
 
-  Scenario: Möjlighet att välja län
+  Scenariomall: Möjlighet att välja län
     Givet att en arbetssökande besöker startsidan
     Och väljer <val> i en meny
     Så uppdateras listan med annonser från <län>
@@ -28,7 +28,7 @@ Egenskap: Anpassad listning
 
 Egenskap: Bläddring av listningar
   De top 10 (20, 30) träffarna kanske inte är tillräckliga
-  utan för att appen ska vara användbar för alla användaren
+  utan för att appen ska vara användbar för alla användare
   behöver vi lägga till möjlighet att bläddra mellan sidor
   i träfflistan.
 

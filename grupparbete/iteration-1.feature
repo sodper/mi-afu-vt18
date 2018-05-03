@@ -39,7 +39,7 @@ Egenskap: Annonsdetaljer
 
 Egenskap: Sparade annonser
 	För att göra appen mer värdefull för arbetssökande ska man kunna
-	spara annonser för att snabb kunna komma tillbaka till dem.
+	spara annonser för att snabbt kunna komma tillbaka till dem.
 
 	Scenario: Spara annons
 		Givet att en arbetssökande besöker startsidan
