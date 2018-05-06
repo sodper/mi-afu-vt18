@@ -44,6 +44,7 @@
 * [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * [CSS Tricks: BEM 101](https://css-tricks.com/bem-101/)
 * [MDN: Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+* [Learn Regex The Easy Way](https://github.com/zeeshanu/learn-regex)
 
 ## Användbara länkar
 
@@ -193,5 +194,6 @@ Länkarna under varje pass ligger till grund för materialet som gås igenom und
 
 * Regex
 * Progressive Web Apps (PWA)
-* Continuous Integration
 * **Demo Iteration 3**
+* [Learn Regex The Easy Way](https://github.com/zeeshanu/learn-regex)
+* [A Beginner's Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
