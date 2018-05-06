@@ -45,6 +45,7 @@
 * [CSS Tricks: BEM 101](https://css-tricks.com/bem-101/)
 * [MDN: Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 * [Learn Regex The Easy Way](https://github.com/zeeshanu/learn-regex)
+* [A Beginner's Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
 
 ## Användbara länkar
 
@@ -53,6 +54,7 @@
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js/)
 * [Isobar Front-end Code Standards](https://isobar-us.github.io/code-standards/)
+* [RegexOne](https://regexone.com/)
 
 ## Lektionsplanering
 
